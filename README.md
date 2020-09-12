@@ -5,3 +5,5 @@ leitos no hospital através de um aplicativo de celular.
 MobDoc-Paciente
 MobDoc-Paciente é o aplicativo que ficava em execução de forma acoplada ao robô de telepresença. Sua função era transmitir o áudio e o vídeo de quem estivesse controlando o robô.
 E também, dar comandos para o robô através de uma conexão bluetooh com a microcontroladora.
+
+Mais informações desse projeto em meu perfil do LinkedIn https://www.linkedin.com/in/gustavo-silveira-5b53b592/
